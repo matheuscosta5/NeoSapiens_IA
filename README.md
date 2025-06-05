@@ -28,7 +28,7 @@ O **NeoSapiens** é um assistente pessoal de inteligência artificial inspirado 
 
 ## 🧬 Estrutura do Projeto
 
-NeoSapiens IA/
+```NeoSapiens IA/
 ├── main.py
 ├── .env
 ├── requirements.txt
@@ -63,7 +63,7 @@ NeoSapiens IA/
 │ └── logs/
 │
 └── tests/
-└── test_jarvis.py
+└── test_jarvis.py```
 
 ---
 
@@ -90,8 +90,9 @@ CREATE TABLE IF NOT EXISTS favoritos_musicais (
     url TEXT,
     data_adicionado TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+```
 
-📦 Requisitos
+## 📦 Requisitos
 Python 3.10+
 
 MySQL
@@ -103,11 +104,15 @@ openai, matplotlib, customtkinter, requests
 APIs: OpenAI, Spotify (ou YouTube para música)
 
 Instale tudo com:
+```
 pip install -r requirements.txt
+```
 
 
-▶️ Execução
+## ▶️ Execução
+```
 python main.py
+```
 
 Ao abrir o app:
 
@@ -117,7 +122,7 @@ Começa a animação de "pensamento".
 
 Você comanda por voz: "Jarvis, toca Nirvana" ou "Me atualiza".
 
-💡 Exemplos de Comando
+## 💡 Exemplos de Comando
 Comando de Voz	Resposta Esperada
 "Jarvis, me explica buracos negros"	Explicação com base científica via IA
 "Me atualiza"	Notícias + Clima local
@@ -125,12 +130,12 @@ Comando de Voz	Resposta Esperada
 "Toca AC/DC"	Player busca e inicia a música
 "Lembra o que falamos sobre ansiedade?"	Mostra histórico relevante
 
-🛡️ Status do Projeto
-🔨 Em desenvolvimento (versão 1.0-alpha).
+## 🛡️ Status do Projeto
+## 🔨 Em desenvolvimento (versão 1.0-alpha).
 O objetivo é criar um assistente funcional, útil e fluido via voz, com possibilidade de expansão para domótica, agenda, e outros sistemas no futuro.
 
-👨‍💻 Autor
-Desenvolvido por [Seu Nome Aqui]
-GitHub: github.com/seuusuario
+## 👨‍💻 Autor
+Desenvolvido por Matheus Costa
+GitHub: https://github.com/matheuscosta5
 
-<p align="center"> <em>"A revolução começou." – NeoSapiens</em> </p> ```
+<p align="center"> <em>"A revolução começou." – NeoSapiens</em> </p> 
