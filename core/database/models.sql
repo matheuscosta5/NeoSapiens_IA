@@ -1,0 +1,16 @@
+CREATE DATABASE IF NOT EXISTS neosapiens_db;
+USE neosapiens_db;
+
+CREATE TABLE IF NOT EXISTS usuarios (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(100) NOT NULL,
+    email VARCHAR(150),
+    data_criacao TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE IF NOT EXISTS logs_sistema (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    mensagem TEXT,
+    modulo VARCHAR(100),
+    data_evento TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);

@@ -1,0 +1,13 @@
+# Ignora arquivos de configuração sensível
+.env
+
+# Ignora cache do Python
+__pycache__/
+*.pyc
+
+# Ignora arquivos do VSCode (se quiser)
+.vscode/
+
+# Ignora arquivos temporários
+*.log
+*.sqlite3
