@@ -63,7 +63,8 @@ O **NeoSapiens** é um assistente pessoal de inteligência artificial inspirado 
 │ └── logs/
 │
 └── tests/
-└── test_jarvis.py```
+└── test_jarvis.py
+```
 
 ---
 
