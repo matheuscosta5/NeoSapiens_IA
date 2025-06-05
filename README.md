@@ -131,11 +131,13 @@ Comando de Voz	Resposta Esperada
 "Lembra o que falamos sobre ansiedade?"	Mostra histórico relevante
 
 ## 🛡️ Status do Projeto
+
 ## 🔨 Em desenvolvimento (versão 1.0-alpha).
 O objetivo é criar um assistente funcional, útil e fluido via voz, com possibilidade de expansão para domótica, agenda, e outros sistemas no futuro.
 
 ## 👨‍💻 Autor
 Desenvolvido por Matheus Costa
+
 GitHub: https://github.com/matheuscosta5
 
 <p align="center"> <em>"A revolução começou." – NeoSapiens</em> </p> 
