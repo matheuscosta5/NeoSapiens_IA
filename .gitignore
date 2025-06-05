@@ -5,7 +5,7 @@
 __pycache__/
 *.pyc
 
-# Ignora arquivos do VSCode (se quiser)
+# Ignora arquivos do VSCode 
 .vscode/
 
 # Ignora arquivos temporários
