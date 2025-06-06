@@ -139,4 +139,4 @@ O objetivo é criar um assistente funcional, útil e fluido via voz, com possibi
 ## 👨‍💻 Autor
 Desenvolvido por Matheus Costa GitHub: https://github.com/matheuscosta5
 
-<p align="center"> <em>"A revolução começou." – NeoSapiens</em> </p> 
+<p align="center"> <em>"A revolução começou." – NeoSapiens</em> </p> ```
